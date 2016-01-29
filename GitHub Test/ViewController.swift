@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Git is a thing")
+        print("Test Second Commit")
     }
 
 
